@@ -8,7 +8,9 @@
   "description": "This widget demonstrates how to filter a feature layer data source programmatically.",
   "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
-  "properties": {},
+  "properties": {
+    "supportRepeat": true
+  },
   "translatedLocales": [
     "en"
   ],
