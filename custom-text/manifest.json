@@ -2,7 +2,7 @@
   "name": "custom-text",
   "label": "Custom Text",
   "type": "widget",
-  "version": "1.16.0",
+  "version": "1.16.1",
   "exbVersion": "1.16.0",
   "author": "Esri R&D Center Beijing",
   "description": "This widget demonstrates how to filter a feature layer data source programmatically.",
