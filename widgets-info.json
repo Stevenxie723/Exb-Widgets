@@ -10249,6 +10249,35 @@
     "group": 7
   },
   {
+    "name": "time-filter",
+    "manifest": {
+      "name": "time-filter",
+      "label": "Time Filter",
+      "type": "widget",
+      "version": "1.16.0",
+      "exbVersion": "1.16.0",
+      "author": "Esri R&D Center Beijing",
+      "description": "This is a barebones, simple widget. It includes an example of how to use the config file, and it includes a placeholder SVG icon. It intentionally does not include the following so you can use this to start from scratch: i18n translations, a Settings panel, unit tests. See the documentation for more information on how to implement these features.",
+      "copyright": "",
+      "license": "http://www.apache.org/licenses/LICENSE-2.0",
+      "properties": {},
+      "translatedLocales": [
+        "zh-tw",
+        "en"
+      ],
+      "defaultSize": {
+        "width": 800,
+        "height": 500
+      }
+    },
+    "i18nLabel": {},
+    "i18nDescription": {},
+    "uri": "widgets/time-filter/",
+    "icon": "widgets/time-filter/icon.svg",
+    "order": 700,
+    "group": 7
+  },
+  {
     "name": "two-line-center-text",
     "manifest": {
       "name": "two-line-center-text",
