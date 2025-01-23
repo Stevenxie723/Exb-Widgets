@@ -10209,6 +10209,70 @@
     "group": 7
   },
   {
+    "name": "manual-legend",
+    "manifest": {
+      "name": "manual-legend",
+      "label": "Manual Legend",
+      "type": "widget",
+      "version": "1.16.0",
+      "exbVersion": "1.16.0",
+      "author": "Esri R&D Center Beijing",
+      "description": "This widget demonstrates how to use D3.js.",
+      "copyright": "",
+      "license": "http://www.apache.org/licenses/LICENSE-2.0",
+      "properties": {},
+      "translatedLocales": [
+        "en"
+      ],
+      "defaultSize": {
+        "width": 800,
+        "height": 500
+      }
+    },
+    "i18nLabel": {
+      "en": "d3"
+    },
+    "i18nDescription": {
+      "en": null
+    },
+    "uri": "widgets/manual-legend/",
+    "icon": "widgets/manual-legend/icon.svg",
+    "order": 700,
+    "group": 7
+  },
+  {
+    "name": "manual-pie-chart",
+    "manifest": {
+      "name": "manual-pie-chart",
+      "label": "Manual Pie Chart",
+      "type": "widget",
+      "version": "1.16.0",
+      "exbVersion": "1.16.0",
+      "author": "Esri R&D Center Beijing",
+      "description": "This widget demonstrates how to use D3.js.",
+      "copyright": "",
+      "license": "http://www.apache.org/licenses/LICENSE-2.0",
+      "properties": {},
+      "translatedLocales": [
+        "en"
+      ],
+      "defaultSize": {
+        "width": 800,
+        "height": 500
+      }
+    },
+    "i18nLabel": {
+      "en": "d3"
+    },
+    "i18nDescription": {
+      "en": null
+    },
+    "uri": "widgets/manual-pie-chart/",
+    "icon": "widgets/manual-pie-chart/icon.svg",
+    "order": 700,
+    "group": 7
+  },
+  {
     "name": "map-view",
     "manifest": {
       "name": "map-view",
