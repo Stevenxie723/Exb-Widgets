@@ -4,7 +4,7 @@
   "type": "widget",
   "version": "1.16.1",
   "exbVersion": "1.16.0",
-  "author": "Esri R&D Center Beijing",
+  "author": "Steven Xie",
   "description": "This widget demonstrates how to filter a feature layer data source programmatically.",
   "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",

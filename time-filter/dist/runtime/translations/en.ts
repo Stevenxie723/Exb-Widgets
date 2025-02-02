@@ -4,7 +4,9 @@ System.register([], function (_export) {
       _export({
         chooseStartDateLabel: 'Choose start date',
         chooseEndDateLabel: 'Choose end date',
-        toLabel: '~'
+        toLabel: '~',
+        chooseTime: 'Choose time range',
+        allTime: 'All'
       })
     }
   }

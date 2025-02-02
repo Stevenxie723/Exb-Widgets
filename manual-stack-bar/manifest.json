@@ -1,6 +1,6 @@
 {
-  "name": "manual-pie-chart",
-  "label": "Manual Pie Chart",
+  "name": "manual-stack-bar",
+  "label": "Manual Stack Bar",
   "type": "widget",
   "version": "1.16.0",
   "exbVersion": "1.16.0",
