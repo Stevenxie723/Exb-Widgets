@@ -10489,5 +10489,33 @@
     "icon": "widgets/url-param-image/icon.svg",
     "order": 700,
     "group": 7
+  },
+  {
+    "name": "url-param-output-data-source",
+    "manifest": {
+      "name": "url-param-output-data-source",
+      "label": "Url Param Output Data Source",
+      "type": "widget",
+      "version": "1.16.0",
+      "exbVersion": "1.16.0",
+      "author": "Esri R&D Center Beijing",
+      "description": "This is an example of how to create an output data source without original data sources.",
+      "copyright": "",
+      "license": "",
+      "properties": {},
+      "translatedLocales": [
+        "en"
+      ],
+      "defaultSize": {
+        "width": 600,
+        "height": 500
+      }
+    },
+    "i18nLabel": {},
+    "i18nDescription": {},
+    "uri": "widgets/url-param-output-data-source/",
+    "icon": "widgets/url-param-output-data-source/icon.svg",
+    "order": 700,
+    "group": 7
   }
 ]
