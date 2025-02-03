@@ -1,0 +1,7 @@
+{
+  "urlParameterName": "name",
+  "mapping": [
+      { "key": "1", "value": "blablabla.jpg" }
+  ],
+  "defaultUrl": "blablabla.jpg"
+}
