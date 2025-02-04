@@ -10146,7 +10146,14 @@
       "defaultSize": {
         "width": 300,
         "height": 60
-      }
+      },
+      "extensions": [
+        {
+          "name": "Url Param Store",
+          "point": "REDUX_STORE",
+          "uri": "../../extensions/url-param-store"
+        }
+      ]
     },
     "i18nLabel": {},
     "i18nDescription": {},
@@ -10515,6 +10522,41 @@
     "i18nDescription": {},
     "uri": "widgets/url-param-output-data-source/",
     "icon": "widgets/url-param-output-data-source/icon.svg",
+    "order": 700,
+    "group": 7
+  },
+  {
+    "name": "url-param-store-creator",
+    "manifest": {
+      "name": "url-param-store-creator",
+      "label": "Url Param Store Creator",
+      "type": "widget",
+      "version": "1.16.0",
+      "exbVersion": "1.16.0",
+      "author": "Esri R&D Center Beijing",
+      "description": "This is an example of how to create an output data source without original data sources.",
+      "copyright": "",
+      "license": "",
+      "properties": {},
+      "translatedLocales": [
+        "en"
+      ],
+      "defaultSize": {
+        "width": 600,
+        "height": 500
+      },
+      "extensions": [
+        {
+          "name": "Url Param Store",
+          "point": "REDUX_STORE",
+          "uri": "../../extensions/url-param-store"
+        }
+      ]
+    },
+    "i18nLabel": {},
+    "i18nDescription": {},
+    "uri": "widgets/url-param-store-creator/",
+    "icon": "widgets/url-param-store-creator/icon.svg",
     "order": 700,
     "group": 7
   }
