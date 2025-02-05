@@ -17,5 +17,12 @@
   "defaultSize": {
     "width": 800,
     "height": 500
-  }
+  },
+  "extensions": [
+    {
+      "name": "Url Param Store",
+      "point": "REDUX_STORE",
+      "uri": "extensions/url-param-store"
+    }
+  ]
 }

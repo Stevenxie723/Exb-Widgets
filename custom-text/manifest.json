@@ -22,7 +22,7 @@
     {
       "name": "Url Param Store",
       "point": "REDUX_STORE",
-      "uri": "../../extensions/url-param-store"
+      "uri": "extensions/url-param-store"
     }
   ]
 }
