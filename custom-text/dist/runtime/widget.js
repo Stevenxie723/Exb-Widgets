@@ -13,4 +13,4 @@ System.register(["jimu-core","jimu-core/react"],(function(e,t){var n={},r={};ret
     align-items: ${n.config.alignItems||"start"};
     width: 100%;
     height: 100%;
-  `;return n.useDataSources&&0!==n.useDataSources.length?(0,e.jsx)(v,{useDataSources:n.useDataSources,onDataSourceInfoChange:a},(0,e.jsx)("div",{css:s},r)):(0,e.jsx)("div",{css:s},r)}y.mapExtraStateProps=(e,t)=>{var n;return{urlParamStore:null===(n=e.urlParamStore)||void 0===n?void 0:n.urlParamStore}};const h=y;function S(e){o.p=e}})(),i})())}}}));
+  `;return n.useDataSources&&0!==n.useDataSources.length?(0,e.jsx)(v,{useDataSources:n.useDataSources,onDataSourceInfoChange:a,onDataSourceCreated:a},(0,e.jsx)("div",{css:s},r)):(0,e.jsx)("div",{css:s},r)}y.mapExtraStateProps=(e,t)=>{var n;return{urlParamStore:null===(n=e.urlParamStore)||void 0===n?void 0:n.urlParamStore}};const h=y;function S(e){o.p=e}})(),i})())}}}));
